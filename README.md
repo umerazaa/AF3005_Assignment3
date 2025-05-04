@@ -24,10 +24,10 @@ For the course of Programming for Finance
 - Fully styled theme and layout
 
 ## 🌍 Live Deployment
-Link: 
+Link: https://af3005assignment3-fwwmtew33mgnotruidzhmg.streamlit.app/ 
 
 ## 📽️ Demo Video
-
+Link: https://www.loom.com/share/eb2054e2ae9343218777da56461357f4?sid=f855d3d1-07bf-439a-9155-545585b92577 
 
 
 ## 🏷️ Tags
